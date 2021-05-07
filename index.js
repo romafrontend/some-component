@@ -17,7 +17,6 @@ function initApp() {
 }
 
 function createPopup() {
-    console.log(123)
     const mainContainer = document.getElementById("mainContainer");
     const imPopup = document.createElement("P");
     imPopup.innerText = 'COOL POPUP';
